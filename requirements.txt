@@ -1,0 +1,23 @@
+# Core (Module 00 onwards)
+numpy
+scipy
+pandas
+matplotlib
+scikit-learn
+statsmodels
+jupyterlab
+ipykernel
+pytest
+
+# Later — approximate nearest neighbours (RAG phase)
+# hnswlib
+
+# Optional — boosting libraries
+# xgboost
+# lightgbm
+# catboost
+
+# Later — serving
+# shap
+# fastapi
+# uvicorn
