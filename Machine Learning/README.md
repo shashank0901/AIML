@@ -14,7 +14,8 @@ Machine Learning/
 │   └── breast_cancer/      breast_cancer.ipynb  (30 features → malignant/benign)
 ├── 01_feature_engineering/
 │   └── titanic/            (section practice)
-└── ...
+├── ...
+└── concepts/               scripts for concept visuals (e.g. logistic_regression/mse_vs_bce.py)
 ```
 
-Revision notes for each section are in Notion (ML Study Plan → Revision Notes). Log experiments in [../JOURNAL.md](../JOURNAL.md).
+Revision notes for each section are in Notion (ML Study Plan → Revision Notes). Concept pages (model theory) are in ML Study Plan → Concepts. Log experiments in [../JOURNAL.md](../JOURNAL.md).
